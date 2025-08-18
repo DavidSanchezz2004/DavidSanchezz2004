@@ -28,8 +28,8 @@
 ---
 
 ## 📌 Proyectos Destacados
-- [Sistema de Gestión Médica](https://github.com/tesitozz/Proyecto-Spring-Boot-Kotlin) – CRUD con filtros dinámicos, login seguro y diseño UI en Figma.  
-- [Sistema de Documentos](https://github.com/tesitozz/Sistema-Documentos) – App web con roles, seguridad con Spring Security y arquitectura MVC.  
+- [Sistema de Gestión Médica](https://github.com/DavidSanchezz2004/Sistema-Gestion-Veterinaria) – CRUD con filtros dinámicos, login seguro y diseño UI en Figma.  
+- [Sistema de Documentos](https://github.com/DavidSanchezz2004/Sistema-Documentos) – App web con roles, seguridad con Spring Security y arquitectura MVC.  
 ---
 
 ## 📚 Actualmente aprendiendo
