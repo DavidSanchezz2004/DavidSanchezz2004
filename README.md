@@ -4,11 +4,11 @@
 
 <br>
 
-- :school: Soy  `David` at [Computacion e Informatica - Cibertec ]
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :school: Soy `David Sánchez`, estudiante de **Computación e Informática en Cibertec** e **Ingeniería de Sistemas en la UCV**.  
+- :technologist: Me apasiona usar el **desarrollo de software como solución para los problemas**.  
+- :computer: Desarrollo proyectos en `Java`, `Spring Boot`, `Kotlin`, `MySQL`, `Thymeleaf` y  `React`.  
+- :student: Actualmente sigo aprendiendo **Backend, Arquitectura Web y Seguridad con Spring Security**.  
+- :nerd_face: Siempre motivado en **aprender nuevas tecnologías y mejorar mis habilidades**.  
+- :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, aquí puedes ver [MI CV](tu-link-al-cv).  
+
 <br>
