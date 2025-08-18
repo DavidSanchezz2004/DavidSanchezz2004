@@ -20,3 +20,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+<br>
+
+## 📌 Proyectos Destacados
+- [Sistema de Gestión Médica](link-a-tu-repo) – CRUD con filtros dinámicos, login seguro y UI en Figma.  
+- [Sistema de Documentos](link-a-tu-repo) – App web con roles, seguridad con Spring Security y JPA.  
+- [Web de Velas Artesanales](link-a-tu-repo) – Tienda online con WordPress y WooCommerce.  
