@@ -9,6 +9,6 @@
 - :computer: Desarrollo proyectos en `Java`, `Spring Boot`, `Kotlin`, `MySQL`, `Thymeleaf` y  `React`.  
 - :student: Actualmente sigo aprendiendo **Backend, Arquitectura Web y Seguridad con Spring Security**.  
 - :nerd_face: Siempre motivado en **aprender nuevas tecnologías y mejorar mis habilidades**.  
-- :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, aquí puedes ver [MI CV](tu-link-al-cv).  
+- :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, aquí puedes ver [MI CV](https://drive.google.com/file/d/1gL3_PWW-YbIWHG0NVT7VUhUuMT0FXx1U/view).  
 
 <br>
