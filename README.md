@@ -12,3 +12,11 @@
 - :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, aquí puedes ver [MI CV](https://drive.google.com/file/d/1gL3_PWW-YbIWHG0NVT7VUhUuMT0FXx1U/view).  
 
 <br>
+
+## 🚀 Tecnologías principales
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
