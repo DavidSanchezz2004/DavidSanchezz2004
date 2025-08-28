@@ -29,7 +29,8 @@
 
 ## 📌 Proyectos Destacados
 - [Sistema de Gestión Médica](https://github.com/DavidSanchezz2004/Sistema-Gestion-Veterinaria) – CRUD con filtros dinámicos, login seguro y diseño UI en Figma.  
-- [Sistema de Documentos](https://github.com/DavidSanchezz2004/Sistema-Documentos) – App web con roles, seguridad con Spring Security y arquitectura MVC.  
+- [Sistema de Documentos](https://github.com/DavidSanchezz2004/Sistema-Documentos) – App web con roles, seguridad con Spring Security y arquitectura MVC.
+- [Sistema de Registro de Yapeos](https://github.com/DavidSanchezz2004/Proyecto-de-Notificaciones-Yape) - Aplicacion que registre los yapeos que te hacen dia a dia.  
 ---
 
 ## 📚 Actualmente aprendiendo
