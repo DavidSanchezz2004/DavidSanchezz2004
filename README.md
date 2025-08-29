@@ -8,7 +8,7 @@
 
 - :school: Soy `David Sánchez`, estudiante de **Computación e Informática en Cibertec** e **Ingeniería de Sistemas en la UCV**.  
 - :technologist: Me apasiona usar el **desarrollo de software como solución para los problemas**.  
-- :computer: Desarrollo proyectos en `Java`, `Spring Boot`, `Kotlin`, `MySQL`, `Thymeleaf` y `React`.  
+- :computer: Desarrollo proyectos en `Java`, `Spring Boot`, `Kotlin`, `MySQL` y `Thymeleaf` .  
 - :student: Actualmente sigo aprendiendo **Backend, Arquitectura Web y Seguridad con Spring Security**.  
 - :nerd_face: Siempre motivado en **aprender nuevas tecnologías y mejorar mis habilidades**.  
 - :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, te invito a ver [![CV](https://img.shields.io/badge/📄%20Ver%20mi%20CV-blue?style=for-the-badge)](https://drive.google.com/file/d/1m3j1Z-ABXCaCQi0inZLtp1uzvDUvHaoM/view?usp=sharing).
@@ -22,7 +22,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ---
