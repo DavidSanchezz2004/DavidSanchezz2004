@@ -11,7 +11,7 @@
 - :computer: Desarrollo proyectos en `Java`, `Spring Boot`, `Kotlin`, `MySQL` y `Thymeleaf` .  
 - :student: Actualmente sigo aprendiendo **Backend, Arquitectura Web y Seguridad con Spring Security**.  
 - :nerd_face: Siempre motivado en **aprender nuevas tecnologías y mejorar mis habilidades**.  
-- :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, te invito a ver [![CV](https://img.shields.io/badge/📄%20Ver%20mi%20CV-blue?style=for-the-badge)](https://drive.google.com/file/d/1m3j1Z-ABXCaCQi0inZLtp1uzvDUvHaoM/view?usp=sharing).
+- :thinking: Estoy abierto a mi **primera oportunidad laboral en desarrollo backend**, te invito a ver [![CV](https://img.shields.io/badge/📄%20Ver%20mi%20CV-blue?style=for-the-badge)](https://drive.google.com/file/d/1n4h79RYjSy50NXNDC4Eqe35t5aJGAUze/view?usp=sharing).
 
 
 
